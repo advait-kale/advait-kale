@@ -1,7 +1,7 @@
-# Hi, I'm Advait Kale 👋
+# Hi, I'm Advait Kale 
 
 ### B.Tech CSE (AI & ML) @ VIT Chennai
-**Aspiring Data Scientist / AI Engineer | ML | DL | RL **
+** Aspiring Data Scientist / AI Engineer | ML | DL | RL **
 
 I enjoy turning data into useful insights and building machine learning
 systems that solve real-world problems.
@@ -11,7 +11,7 @@ Computer Vision, SQL, and Data Science**.
 
 ---
 
-## 🧠 About Me
+## About Me
 
 -  B.Tech CSE (AI & ML) student at **VIT Chennai**
 -  Exploring **Data Science, Machine Learning & AI Engineering**
@@ -49,7 +49,7 @@ Computer Vision, SQL, and Data Science**.
 
 ---
 
-### 📊 Kaggle Data Science compititions
+### Kaggle Data Science compititions
 
 > Exploring real-world datasets through EDA, preprocessing,
 > feature engineering and machine learning.
@@ -61,24 +61,3 @@ Kaggle · Pandas · NumPy · Scikit-learn · Matplotlib · PyTorch
 
 ---
 
-
-## 📚 Currently Learning
-
-```text
-Data Science
-├── Exploratory Data Analysis
-├── Feature Engineering
-├── Statistical Analysis
-└── Machine Learning
-
-Deep Learning
-├── PyTorch
-├── Neural Networks
-├── Computer Vision
-└── CNNs
-
-AI Engineering
-├── Model Deployment
-├── FastAPI
-├── Docker
-└── ML Pipelines
