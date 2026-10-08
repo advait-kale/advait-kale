@@ -1,16 +1,84 @@
-## Hi there 👋
+# Hi, I'm Advait Kale 👋
 
-<!--
-**advait-kale/advait-kale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### B.Tech CSE (AI & ML) @ VIT Chennai
+**Aspiring Data Scientist / AI Engineer | ML | DL | RL **
 
-Here are some ideas to get you started:
+I enjoy turning data into useful insights and building machine learning
+systems that solve real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently learning and building with **Python, Machine Learning, PyTorch,
+Computer Vision, SQL, and Data Science**.
+
+---
+
+## 🧠 About Me
+
+-  B.Tech CSE (AI & ML) student at **VIT Chennai**
+-  Exploring **Data Science, Machine Learning & AI Engineering**
+-  Interested in **Computer Vision and Deep Learning**
+-  Practicing **EDA, feature engineering, model building & evaluation**
+-  Learning by building projects and working with real-world datasets
+-  Currently improving my skills in **PyTorch and ML deployment**
+
+---
+
+## 🛠️ Tech Stack
+
+### Programming
+<p>
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,java" />
+</p>
+
+### Data Science & Machine Learning
+`NumPy` · `Pandas` · `Matplotlib` · `Seaborn` · `Scikit-learn` · `Statsmodels`
+
+### Deep Learning & Computer Vision
+`PyTorch` · `Torchvision` · `OpenCV`
+
+### Generative AI
+`Hugging Face` · `Transformers` · `LLMs` · `RAG` · `Prompt Engineering`
+
+### Backend & AI Engineering
+`FastAPI` · `REST APIs` · `Docker`
+
+### Databases
+`PostgreSQL` · `SQLite` · `ChromaDB`
+
+### Developer Tools
+`Git` · `GitHub` · `VS Code`
+
+---
+
+### 📊 Kaggle Data Science compititions
+
+> Exploring real-world datasets through EDA, preprocessing,
+> feature engineering and machine learning.
+
+**Currently working with:**  
+Kaggle · Pandas · NumPy · Scikit-learn · Matplotlib · PyTorch
+
+[🔗 View Kaggle](KAGGLE_LINK)
+
+---
+
+
+## 📚 Currently Learning
+
+```text
+Data Science
+├── Exploratory Data Analysis
+├── Feature Engineering
+├── Statistical Analysis
+└── Machine Learning
+
+Deep Learning
+├── PyTorch
+├── Neural Networks
+├── Computer Vision
+└── CNNs
+
+AI Engineering
+├── Model Deployment
+├── FastAPI
+├── Docker
+└── ML Pipelines
