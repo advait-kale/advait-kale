@@ -22,7 +22,7 @@ Computer Vision, SQL, and Data Science**.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Programming
 <p>
@@ -57,7 +57,7 @@ Computer Vision, SQL, and Data Science**.
 **Currently working with:**  
 Kaggle · Pandas · NumPy · Scikit-learn · Matplotlib · PyTorch
 
-[🔗 View Kaggle](KAGGLE_LINK)
+[🔗 View Kaggle](https://www.kaggle.com/advai1)
 
 ---
 
