@@ -45,7 +45,7 @@ Computer Vision, SQL, and Data Science**.
 `PostgreSQL` · `SQLite` · `ChromaDB`
 
 ### Developer Tools
-`Git` · `GitHub` · `VS Code`
+`Git` · `GitHub` 
 
 ---
 
